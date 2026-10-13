@@ -4,8 +4,8 @@
   "description": "**NB: Please do not fork this repository, to avoid your solution being visible from this repository's GitHub page. Please clone this repository and submit your solution as a separate repository.**",
   "main": "index.js",
   "dependencies": {
-    "dompurify": "^2.4.0",
-    "express": "^4.17.1",
+    "dompurify": "^3.4.16",
+    "express": "^4.22.0",
     "jsdom": "^20.0.0",
     "lts": "^1.2.0",
     "marked": "^4.1.0"
